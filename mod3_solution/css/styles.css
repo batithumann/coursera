@@ -1,0 +1,56 @@
+body {
+  
+}
+
+.main-content {
+  margin-top: 60px;
+}
+
+.main-content .row {
+  background-color: #e6e6e6;
+  margin-top: 40px;
+  border-radius: 10px;
+  padding: 25px 0px 10px;
+  margin-bottom: 10px;
+}
+
+.navbar-default .navbar-brand , .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  font-size: 130%;
+  color: #FFF;  
+}
+
+.navbar {
+  border: none;
+}
+
+.navbar-default {
+    background: #003d99; 
+}
+
+.navbar-default .navbar-toggle {
+  background-color: #FFF;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #003d99;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: #003d99;
+}
+
+.navbar-default .navbar-toggle:focus .icon-bar, .navbar-default .navbar-toggle:hover .icon-bar {
+  background-color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+  background-color: #003d99;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:active {
+  background-color: #fff;
+  text-align: center;
+  color: #003d99;
+}
